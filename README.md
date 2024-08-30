@@ -1,38 +1,39 @@
-# curso-numpy-pandas
+# Curso de Python para Ciencia de Datos
 
-¡Bienvenido al curso de NumPy y Pandas para Análisis de Datos de Platzi! Este curso está diseñado para proporcionarte las habilidades necesarias para manejar y analizar datos de manera eficiente utilizando las poderosas bibliotecas de NumPy y Pandas en Python.
+Hola, Soy tu profesora Carli Code. Bienvenido al **Curso de Python para Ciencia de Datos**. Este curso está diseñado para llevarte desde los fundamentos del análisis de datos hasta técnicas avanzadas de visualización y optimización, utilizando las bibliotecas más populares de Python como NumPy, Pandas y Matplotlib. A lo largo del curso, aprenderás a manipular, analizar y visualizar datos, desarrollando una comprensión profunda de cómo utilizar Python para resolver problemas en ciencia de datos. Puedes acceder al curso completo en [Curso de Python para Ciencia de Datos en Platzi](https://platzi.com/cursos/python-data-science/).
 
-## Descripción del Curso
+## Módulo 1: NumPy para Ciencia de Datos
 
-En este curso, aprenderás a utilizar NumPy y Pandas para realizar análisis de datos complejos y manipular grandes conjuntos de datos. El curso está dividido en módulos que cubren desde los conceptos básicos hasta aplicaciones avanzadas en ciencia de datos. Cada clase incluye ejemplos prácticos y ejercicios que te ayudarán a consolidar tus conocimientos.
+En este módulo, explorarás las bases del cálculo matricial y la manipulación de arrays en Python utilizando NumPy. Aprenderás a trabajar con arrays multidimensionales, realizar cálculos algebraicos, y aplicar técnicas de optimización y escalabilidad para manejar grandes volúmenes de datos.
 
-## Módulos del Curso
+## Módulo 2: Introducción a Pandas
 
-### Módulo 1: Fundamentos de NumPy
+Este módulo se enfoca en Pandas, la biblioteca esencial para la manipulación de datos en Python. Aprenderás a trabajar con DataFrames, realizar transformaciones complejas, manejar datos faltantes y realizar agrupaciones. También se abordarán técnicas avanzadas como el filtrado y la fusión de datos.
 
-En este módulo, conocerás los fundamentos de NumPy, incluyendo la creación y manipulación de arrays, operaciones básicas de álgebra lineal, y cómo trabajar con datos multidimensionales. Aprenderás a utilizar las funciones y métodos esenciales de NumPy para realizar cálculos y transformaciones en tus datos.
+## Módulo 3: Visualización de Datos con Matplotlib
 
-### Módulo 2: Manipulación de Datos con Pandas
+En este módulo, te sumergirás en la visualización de datos utilizando Matplotlib. Aprenderás a crear gráficos básicos y avanzados, personalizar visualizaciones, trabajar con subplots y manejar series de tiempo. La integración de Matplotlib con Pandas también será cubierta para maximizar la eficiencia en la presentación de datos.
 
-Este módulo te introducirá a la biblioteca Pandas, enfocándose en la creación y manipulación de DataFrames, técnicas de limpieza y preparación de datos, y métodos avanzados de análisis. Aprenderás a leer datos de diferentes fuentes, filtrar y agrupar datos, y realizar operaciones estadísticas y de agregación.
+## Módulo 4: Proyecto Práctico
 
-### Módulo 3: Proyecto Práctico
+El curso culmina con un proyecto práctico que te permitirá aplicar todos los conocimientos adquiridos en un caso de estudio real. Utilizaremos el dataset "Online Retail", disponible en el [Repositorio de Machine Learning de la UCI](https://archive.ics.uci.edu/dataset/352/online+retail).
 
-En el proyecto práctico, aplicarás todo lo aprendido para realizar un análisis de datos completo. Trabajarás en un caso de estudio real, utilizando NumPy y Pandas para limpiar, procesar, analizar y visualizar datos. Este proyecto te ayudará a consolidar tus habilidades y te proporcionará un portafolio profesional.
+### Descripción del Dataset "Online Retail":
+Este dataset contiene todas las transacciones realizadas entre el 1 de diciembre de 2010 y el 9 de diciembre de 2011 por una empresa minorista en línea con sede en el Reino Unido. La empresa vende principalmente regalos únicos de todos los rincones de Europa.
 
-## Objetivos del Curso
+- **InvoiceNo:** Número de factura. Es el identificador único de cada transacción.
+- **StockCode:** Código del producto. Identificador único de cada producto.
+- **Description:** Descripción del producto.
+- **Quantity:** Cantidad de productos en la transacción.
+- **InvoiceDate:** Fecha y hora en que se generó la factura.
+- **UnitPrice:** Precio unitario de cada producto.
+- **CustomerID:** Identificador único del cliente.
+- **Country:** País del cliente.
 
-Al finalizar este curso, podrás:
+### Proyecto Final:
+Desarrollarás un análisis completo utilizando Python, desde la manipulación de datos hasta la visualización y reporte de insights clave. Este proyecto servirá como un excelente ejemplo para tu portafolio de ciencia de datos. 
 
-1. Manejar y manipular grandes conjuntos de datos utilizando NumPy y Pandas.
-2. Realizar análisis de datos complejos y generar insights valiosos.
-3. Crear visualizaciones de datos efectivas para comunicar tus hallazgos.
-4. Implementar buenas prácticas en tus proyectos de análisis de datos.
-5. Preparar un portafolio profesional con tus proyectos de análisis de datos.
+Podrás realizar análisis de ventas, segmentación de clientes, y aplicar técnicas de análisis exploratorio sobre el dataset proporcionado.
 
-¡Esperamos que disfrutes el curso y aprendas mucho! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
-
-
----
-
-Platzi © 2024. Todos los derechos reservados.
+Derechos Reservados
+Este contenido es propiedad de Platzi. Todos los derechos reservados. El uso de este material está sujeto a los términos y condiciones de Platzi.
